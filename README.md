@@ -15,3 +15,10 @@
 - [Website](https://aamodpant.com/)
 - [LinkedIn](https://www.linkedin.com/in/aamod-pant-balekundri-96b68016b/)
 - [Github](https://github.com/aamodpant15) (You are here)
+  
+  
+  
+  
+  
+  
+Note: Stats card created using [this project](https://github.com/anuraghazra/github-readme-stats)
