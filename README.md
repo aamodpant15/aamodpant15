@@ -8,7 +8,7 @@
 - 🤔 Open for project collaborations, and internships for Summer 2021.
 - 😄 Pronouns: he/him/his
 
-![github stats](https://github-readme-stats.vercel.app/api?username=aamodpant15&show_icons=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=aamodpant15&show_icons=true&theme=tokyonight)
 
 ## Contact me
 - Email: aamodpant15@gmail.com
